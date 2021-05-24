@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.wrap {
+    max-width: 1880px;
+}
+
+.inner {
+    min-width: 1440px;
+    margin: 0 auto;
+}
+header {
+    /* width: auto; 생략이 되어 있다 */
+    height: 186px;
+
+}
+
+footer {
+    /* width: auto; 생략이 되어 있다 */
+    height: 100px;
+}
